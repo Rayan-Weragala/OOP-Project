@@ -1,5 +1,4 @@
-# OOP-Project
-Video browsing System-Upload video
+The "Java MVC Video Browsing System with User-Uploaded Content Management" is a project developed for SLIIT's 2nd year 1st semester, featuring an interactive video platform. Built using the Model-View-Controller architecture, the system allows registered users to seamlessly upload, view, and manage their personal video content. Users can log in, upload videos, play them back, modify video details, and delete content. The project not only offers an organized and user-friendly experience but also demonstrates the effective implementation of Java MVC principles for structured code and user-centric functionality.
 
 ![Screenshot 2023-05-23 164725](https://github.com/Rayan-Weragala/OOP-Project/assets/110955943/c9488a71-4a63-435c-ae3e-833d70e29b00)
 ![Screenshot 2023-05-23 164850](https://github.com/Rayan-Weragala/OOP-Project/assets/110955943/f5742303-2bae-4013-a1e6-bcc1f817fe93)
